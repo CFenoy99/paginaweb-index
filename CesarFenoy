@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="icon" type="image/png" href="img/Logo_FAVICON.png">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web_Principal_Index</title>
+    
+</head>
+<body style="background-color: #0098CA;">
+    <table style="background-color:#0098CA;" align="center" border="1px"> 
+        <tr align="center">
+            <td width="200"
+                height="200">                
+            <img src="img/logo.png" alt=""width="200px" height="200px">
+            <logo class="png"></logo></td>
+        <td bgcolor="#B68400" width="800"
+            height="200">
+        <br><font face="arial" size="7" color="white"><b>UNIR FP</b></font> 
+        <br><font face="arial" size="6" color="white"><b>Tu mejor elección</b></font></td> 
+        </tr>
+            <tr align="center" bgcolor="#B68400">
+                <td width="200"height="100">
+            <img src="img/ICONO_1_Who.gif" alt=""width="70" height="70">
+            <br><Font face="arial" color="white"> <b><u>QUIENES SOMOS</u></b></Font>
+        </td>
+        <td rowspan="5" align="center">
+            <iframe width="800" height="520" src="https://www.youtube.com/embed/m3mZ8-S2lDU?si=9pIbFGEuZVY6syD1" title="Grado Superior FP en DAM de UNIR - Marta Garcia" frameborder="0" allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;
+            picture-in-picture;web-share"allowfullscreen></iframe> 
+       </td>
+        </tr>
+        <tr>
+            <td align="center" bgcolor="#B68400" width="200"
+                height="100">
+            <img src="img/ICONO_2_DGRE.gif" alt=""width="70" height="70">
+            <br><Font face="arial" color="white"><b><u>TITULACIONES</u></b></Font></td>
+            <tr align="center" bgcolor="#B68400">
+                <td width="200"height="100">
+            <img src="img/ICONO_20.gif" alt=""width="70" height="70">
+            <br><Font face="arial" color="white"><b><u>PROFESORADO</u></b></Font></td>
+            <tr align="center" bgcolor="#B68400">
+                <td width="200"height="100">
+            <img src="img/ICONO_4_TIMET.gif" alt=""width="70" height="70">
+            <br><Font face="arial" color="white"><b><u>HORARIOS</u></b></Font>
+        </td>
+        <tr align="center" bgcolor="#B68400">
+            <td width="200"height="100">
+        <img src="img/ICONO_5_WHERE.gif" alt=""width="70" height="70">
+        <br><Font face="arial" color="white"><b><u>DONDE ESTAMOS</u></b></Font>
+    </td>
+    <tr align="center" bgcolor="#333333">
+        <td colspan="2" width="1000px">
+    <br><Font color="white"><b>@Copyright, creado por los alumnos de UNIR FP Curso 23-24</b></Font>
+</td>
+    </tr>
+    </table>
+   </td> 
+</tr>    
+</body>
+</html>
