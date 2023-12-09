@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="icon" href="img/Logo_FAVICON.png">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Horarios de clase</title>
+</head>
+<body bgcolor="#0098CA">
+    <table border="5px" width="1000px" height="720px" align="center">
+        <tr width="200px" height="200px">
+            
+            <th><img src="/img/logo.png" alt="Logo"></th>
+            <th width="800px" bgcolor="#b68400">
+              <font size="20px" color="white">UNIR FP</font>
+             <br> <font size="6px" color="white ">Tu mejor elección</font>
+            </th>
+        
+            </th>
+        </tr>
+        <tr width="100px" height="100px">
+            <td bgcolor="#b68400" align="center"><img src="/img/ICONO_1_Who.gif" alt=""width="70" height="70" alig="center">
+               <br><font face="arial" color="white" alig="center"><b><u>QUIENES SOMOS</u></b> </td></font>
+            <td rowspan="5" align="center"> 
+                <table border="3" width="900" height="500">
+                    <tr align="center" bgcolor="white">
+                        <td width="150" heidgt="71">Horas</td>
+                        <td width="150" heidgt="71">Lunes</td>
+                        <td width="150" heidgt="71">Martes</td>
+                        <td width="150" heidgt="71">Miércoles</td>
+                        <td width="150" heidgt="71">Jueves</td>
+                        <td width="150" heidgt="71">Viernes</td>
+                    </tr>
+                    <tr align="center">
+                        <td bgcolor="white">8:30-9:30</td>
+                        <td rowspan="2" bgcolor="green"><b>Programación</b></td>
+                        <td rowspan="6" bgcolor="blue"><b>Sistemas informáticos</b></td>
+                        <td rowspan="3" bgcolor="green"><b>Programación</b></td>
+                        <td rowspan="3" bgcolor="yellow"><b>Bases de datos</b></td>
+                        <td rowspan="3" bgcolor="yellow"><b>Bases de Datos</b></td>
+                    </tr>
+                    <tr align="center">
+                        <td bgcolor="white">9:30-10:30</td>
+                    </tr>
+                    <tr align="center">
+                        <td bgcolor="white">10:30-11:30</td>
+                        <td rowspan="4" bgcolor="red"><b>Lenguajes de Marcas y Sistemas de gestión de información</b></td>
+                    </tr>
+                    <tr align="center">
+                        <td bgcolor="white">11:30-12:30</td>
+                        <td rowspan="3" bgcolor="purple"><b>Entornos de desarrollo</b></td>
+                        <td rowspan="3" bgcolor="#B5351A"><b>Formación y orientación laboral</b></td>
+                        <td rowspan="3" bgcolor="green"><b>Programación</b></td>
+                    </tr>
+                    <tr align="center">
+                        <td bgcolor="white">12:30-13:30</td>
+                    </tr>
+                    <tr align="center">
+                        <td bgcolor="white">13:30-14:30</td>
+                    </tr>
+                </table>
+                        
+                        
+            </td>
+                      
+        </tr>
+        <tr width="100px" height="100px">
+            <td bgcolor="#b68400" align="center"><img src="/img/ICONO_2_DGRE.gif" alt="" width="70" height="70" alig="center">
+                <br><font face="arial" color="white" alig="center"><b><u>TITULACIONES</u></b></td></font>
+        </tr>
+        <tr width="100px" height="100px">
+            <td bgcolor="#b68400" align="center"><img src="/img/ICONO_3_TEACH.gif" alt="" width="70" height="70" alig="center">
+                <br><font face="arial" color="white" alig="center"><b><u>PROFESORADO</u></b></td></font>
+            
+        </tr>
+        <tr width="100px" height="100px">
+            <td bgcolor="#b68400" align="center"><img src="/img/ICONO_4_TIMET.gif" alt="" width="70" height="70" alig="center">
+                <br><font face="arial" color="white" alig="center"><b><u>HORARIOS</u></b></td></font>
+            
+        </tr>
+        <tr width="100px" height="100px">
+            <td bgcolor="#b68400" align="center"><img src="/img/ICONO_5_WHERE.gif" alt="" width="70" height="70" alig="center">
+                <br><font face="arial" color="white" alig="center"><b><u>DONDE ESTAMOS</u></b></td></font>
+            
+        </tr>
+        
+        <tr height="20px" width=1000px aria-colspan="2">
+            <td colspan="2" align="center" bgcolor="black"><font color="white">@Copyright, creado por los alumnos de UNIR FP Curso 23-24</font></td>
+            
+
+            
+        
+        </tr>
+    </table>
+</body>
+</html>
