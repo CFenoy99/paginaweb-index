@@ -7,8 +7,8 @@
     <title>Web_Principal_Index</title>
     
 </head>
-<body style="background-color: #0098CA;">
-    <table style="background-color:#0098CA;" align="center" border="1px"> 
+<body bgcolor="#0098CA";">
+    <table bgcolor="#0098CA";" align="center" border="1px"> 
         <tr align="center">
             <td width="200"
                 height="200">                
@@ -36,7 +36,7 @@
             <br><Font face="arial" color="white"><b><u>TITULACIONES</u></b></Font></td>
             <tr align="center" bgcolor="#B68400">
                 <td width="200"height="100">
-            <img src="img/ICONO_20.gif" alt=""width="70" height="70">
+            <img src="img/ICONO_3_3_teacher.gif" alt=""width="70" height="70">
             <br><Font face="arial" color="white"><b><u>PROFESORADO</u></b></Font></td>
             <tr align="center" bgcolor="#B68400">
                 <td width="200"height="100">
